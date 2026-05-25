@@ -1,4 +1,4 @@
-# Forecasting Backend API
+# Scenario Simulation Backend API
 
 This Backend API is a modular FastAPI-based backend for macroeconomic forecasting, recession probability modeling, ESG scenario generation, and dataset management.
 
